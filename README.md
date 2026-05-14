@@ -33,15 +33,15 @@ BudgetFriend is designed for quick daily expense tracking without unnecessary co
 
 | Main Screen (English / Light Mode) | Main Screen (Arabic / Dark Mode) |
 |---|---|
-| <img src="./screenshots/main_sample_lm_en.png" width="260"> | <img src="./screenshots/main_sample_dm_ar.png" width="260"> |
+| <img src="./Screenshots/main_sample_lm_en.png" width="260"> | <img src="./Screenshots/main_sample_dm_ar.png" width="260"> |
 
 | Transaction Editing | Transaction Filters |
 |---|---|
-| <img src="./screenshots/previewCalcInEdit_dm_en.png" width="260"> | <img src="./screenshots/filterTransaction_selectedCategory_lm_en.png" width="260"> |
+| <img src="./Screenshots/previewCalcInEdit_dm_en.png" width="260"> | <img src="./Screenshots/filterTransaction_selectedCategory_lm_en.png" width="260"> |
 
 | Settings |
 |---|
-| <img src="./screenshots/settings_lm_en.png" width="260"> |
+| <img src="./Screenshots/settings_lm_en.png" width="260"> |
 ## Downloads / Releases
 
 Official builds and release notes are available on GitHub Releases.
